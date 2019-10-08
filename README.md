@@ -1,2 +1,3 @@
 # Embeded_Final
-This is a univeristy project
+This is a univeristy project for subject of Embeded Systems...
+Raspberry pi was used for implementation of an embeded system network of peer to peer communication among nodes.
